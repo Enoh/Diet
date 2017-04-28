@@ -22,7 +22,7 @@ public class ExampleInstrumentedTest {
         Context appContext = InstrumentationRegistry.getTargetContext();
 
         assertEquals("com.ahmet.monster.diet", appContext.getPackageName());
-
+        String erhanAdded="";
         String value="";
     }
 }
